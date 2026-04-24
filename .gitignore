@@ -8,7 +8,6 @@
 !.yarn/versions
 /coverage
 /.next/
-/out/
 /build
 .DS_Store
 *.pem
