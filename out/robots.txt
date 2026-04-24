@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /private/
-Disallow: /_next/
-Disallow: /api/
-
-Sitemap: https://priyazsh.github.io/sitemap.xml
