@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-
-
-Sitemap: https://faian-2005.github.io/sitemap.xml
